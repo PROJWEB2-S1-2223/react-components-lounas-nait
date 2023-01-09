@@ -29,9 +29,9 @@ function ListCourse () {
          <span>
              {course.title }
          </span>
-         <div >
+
          <span>  {course.article}</span>
-         </div>
+
        </li>
        );
    })}
